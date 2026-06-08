@@ -1,0 +1,10 @@
+Sensor IMU MPU6050
+
+Função:
+Medir aceleração e orientação do hovercraft.
+
+Status:
+Funcionando parcialmente.
+
+Observação:
+É necessário calibrar o sensor antes dos testes finais.
