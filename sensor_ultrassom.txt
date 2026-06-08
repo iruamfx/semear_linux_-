@@ -1,0 +1,10 @@
+Sensor ultrassom HC-SR04
+
+Função:
+Medir a distância entre o hovercraft e obstáculos próximos.
+
+Status:
+Funcionando corretamente no último teste.
+
+Observação:
+A leitura apresentou pequenas oscilações quando o hovercraft estava em movimento.
