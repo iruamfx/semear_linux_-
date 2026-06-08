@@ -1,0 +1,11 @@
+Relatório inicial do projeto Hovercraft
+
+Durante os primeiros testes, o hovercraft conseguiu ligar os motores e realizar leituras básicas dos sensores.
+
+Problemas encontrados:
+- O sensor IMU apresentou falha de calibração.
+- O motor direito apresentou perda de potência.
+- Os arquivos do projeto ainda estão desorganizados.
+
+Componente com falha principal:
+Motor direito.
