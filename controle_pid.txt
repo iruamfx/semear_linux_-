@@ -1,0 +1,8 @@
+Controle PID do hovercraft
+
+Kp = 1.2
+Ki = 0.05
+Kd = 0.8
+
+Observação:
+Os parâmetros ainda precisam ser ajustados em testes futuros.
