@@ -1,0 +1,5 @@
+[INFO] Teste dos motores iniciado.
+[INFO] Motor esquerdo ligado.
+[INFO] Motor direito ligado.
+[ERRO] Motor direito apresentou perda de potência.
+[INFO] Teste dos motores finalizado.
