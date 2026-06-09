@@ -1,5 +1,6 @@
 # Projeto Hovercraft
 
+
 ## Introdução
 
 Nesta prática, vamos trabalhar com um projeto de hovercraft que ainda está desorganizado.
@@ -7,6 +8,7 @@ Nesta prática, vamos trabalhar com um projeto de hovercraft que ainda está des
 A ideia é parecida com uma situação real: às vezes recebemos um repositório com vários arquivos misturados, como logs, códigos, scripts e documentos, e precisamos organizar tudo antes de conseguir trabalhar melhor no projeto.
 
 Para isso, vamos usar o que vimos no treinamento de Git e Linux. Vocês vão clonar o repositório, criar uma branch com o próprio nome, separar os arquivos em pastas, ler alguns documentos, editar um arquivo, dar permissão para executar um script e salvar algumas evidências da atividade.
+
 
 
 ## 1. Clonando o repositório e criando a branch
@@ -42,11 +44,12 @@ git status
 
 ## 2. Organização do projeto
 
-O repositório inicial contém vários arquivos misturados. A tarefa de vocês é criar novas pastas, mover os arquivos para os lugares corretos e apagar o que não deve permanecer no projeto final.
+Nessa parte, o objetivo é organizar os arquivos do projeto.
+
+O repositório inicial está com vários arquivos misturados na pasta principal. Vocês devem criar as pastas necessárias, mover cada arquivo para o lugar correto e apagar o que não deve ficar na versão final.
 
 Ao final dessa etapa, o repositório deve ficar com a seguinte estrutura:
 
-```txt
 pratica-linux-hovercraft/
 ├── README.md
 ├── ROTEIRO_PRATICA.md
@@ -69,21 +72,20 @@ pratica-linux-hovercraft/
 │       ├── anotacoes.txt
 │       └── relatorio_inicial.txt
 └── entregas/
-```
 
-Dicas de comandos que podem ajudar:
+Vocês devem fazer essa organização usando comandos no terminal.
 
-```bash
+Comandos que podem ajudar:
+
 ls
 mkdir
 mv
 rm
 pwd
-```
 
 Essa organização será a segunda entrega da prática.
 
----
+
 
 ## 3. Acessando e editando arquivos
 
