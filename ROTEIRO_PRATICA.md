@@ -2,13 +2,12 @@
 
 ## Introdução
 
-Nesta prática, vocês irão trabalhar com um repositório inicial de um projeto de hovercraft.
+Nesta prática, vamos trabalhar com um projeto de hovercraft que ainda está desorganizado.
 
-A ideia é simular uma situação comum em projetos de robótica: receber arquivos de sensores, motores, controle, energia, scripts e documentos ainda desorganizados, e então preparar o repositório para que ele fique mais claro e fácil de usar.
+A ideia é parecida com uma situação real: às vezes recebemos um repositório com vários arquivos misturados, como logs, códigos, scripts e documentos, e precisamos organizar tudo antes de conseguir trabalhar melhor no projeto.
 
-Durante a atividade, vocês deverão usar os conhecimentos vistos no treinamento de Git e Linux para clonar o repositório, criar uma branch própria, organizar arquivos, acessar e editar documentos, ajustar permissões, instalar uma ferramenta nova e registrar as evidências da prática.
+Para isso, vamos usar o que vimos no treinamento de Git e Linux. Vocês vão clonar o repositório, criar uma branch com o próprio nome, separar os arquivos em pastas, ler alguns documentos, editar um arquivo, dar permissão para executar um script e salvar algumas evidências da atividade.
 
----
 
 ## 1. Clonando o repositório e criando a branch
 
