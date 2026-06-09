@@ -42,6 +42,7 @@ git status
 ```
 
 
+
 ## 2. Organização do projeto
 
 Nessa parte, o objetivo é organizar os arquivos do projeto.
@@ -93,41 +94,35 @@ Essa organização será a segunda entrega da prática.
 
 ## 3. Acessando e editando arquivos
 
-Depois de organizar o projeto, vocês devem acessar alguns arquivos para encontrar informações importantes sobre o hovercraft.
+Nessa parte, o objetivo é acessar alguns arquivos pelo terminal e procurar informações importantes nos logs do projeto.
 
-Procurem nos documentos e logs informações sobre possíveis erros, falhas ou observações feitas durante os testes.
+Dentro das pastas de sensores e motores, existem arquivos de log com registros dos testes realizados no hovercraft.
 
-Em seguida, criem ou editem um arquivo de diagnóstico com as informações encontradas.
+Vocês devem fazer o seguinte:
 
-O arquivo deve ser salvo em:
+Ler pelo terminal o arquivo de log dos sensores.
 
-```txt
-hovercraft/documentos/diagnostico_aluno.txt
-```
+Ler pelo terminal o arquivo de log dos motores.
 
-Esse arquivo deve conter:
+Encontrar os dois erros apresentados nesses arquivos.
 
-```txt
-Nome:
-Branch:
-Informação encontrada:
-Arquivo consultado:
-Comando utilizado:
-Conclusão:
-```
+Depois disso, criem um novo arquivo chamado:
+
+hovercraft/documentos/diagnostico.txt
+
+Nesse arquivo, escrevam os dois erros encontrados nos logs.
 
 Dicas de comandos que podem ajudar:
 
 ```bash
 cat
 head
-tail
-grep
+grep "  "
 nano
-echo
+echo "  "  >
 ```
 
----
+
 
 ## 4. Permissão de execução
 
