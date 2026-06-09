@@ -50,6 +50,7 @@ O repositório inicial está com vários arquivos misturados na pasta principal.
 
 Ao final dessa etapa, o repositório deve ficar com a seguinte estrutura:
 
+```bash
 pratica-linux-hovercraft/
 ├── README.md
 ├── ROTEIRO_PRATICA.md
@@ -72,16 +73,19 @@ pratica-linux-hovercraft/
 │       ├── anotacoes.txt
 │       └── relatorio_inicial.txt
 └── entregas/
+```
 
 Vocês devem fazer essa organização usando comandos no terminal.
 
 Comandos que podem ajudar:
 
+```bash
 ls
 mkdir
 mv
 rm
 pwd
+```
 
 Essa organização será a segunda entrega da prática.
 
