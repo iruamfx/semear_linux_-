@@ -206,31 +206,8 @@ tree                             # mostra a estrutura de arquivos e pastas
 
 
 
-## 6. Histórico de comandos
 
-No final da prática, vocês devem salvar os comandos utilizados durante a atividade.
-
-Para isso, usem o comando:
-
-```bash
-history
-```
-
-Salvem o histórico em um arquivo chamado:
-
-```txt
-comandos_utilizados.txt
-```
-
-Esse arquivo também deve ficar dentro da pasta:
-
-```txt
-entregas/
-```
-
-
-
-## 7. Commit e push
+## 6. Commit e push
 
 Quando terminarem a prática, confiram se os arquivos estão organizados e se as entregas foram criadas corretamente.
 
