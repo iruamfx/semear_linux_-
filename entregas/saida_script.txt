@@ -1,0 +1,11 @@
+Verificando arquivos do hovercraft...
+
+Sensores encontrados.
+Motores encontrados.
+Scripts encontrados.
+
+Buscando erros nos logs...
+[ERRO] Motor direito apresentou perda de potência.
+[ERRO] Falha de calibração no sensor IMU.
+
+Diagnóstico concluído.

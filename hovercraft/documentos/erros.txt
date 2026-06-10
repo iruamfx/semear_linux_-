@@ -1,0 +1,2 @@
+[ERRO] Falha de calibracao no sensor IMU.
+[ERRO] Motor direito apresentou perda de potencia.
